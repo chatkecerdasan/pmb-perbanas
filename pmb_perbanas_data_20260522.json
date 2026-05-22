@@ -1,0 +1,1868 @@
+{
+  "schema_version": "4.0",
+  "meta": {
+    "lastUpdated": "2026-05-21",
+    "ytdNote": "Data 2026 adalah YTD per 21 Mei 2026 (parsial)",
+    "institution": "Perbanas Institute"
+  },
+  "prodi_fullname": {
+    "SA": "Akuntansi",
+    "SM": "Manajemen",
+    "ES": "Ekonomi Syariah",
+    "TI": "Teknik Informatika",
+    "SI": "Sistem Informasi",
+    "BDA": "Analitika Data Bisnis",
+    "DA": "D3 Akuntansi Pajak",
+    "DKP": "D3 Keuangan & Perbankan",
+    "MM Reg": "Magister Manajemen (Reguler)",
+    "MM Eks": "Magister Manajemen (Ekstensi)",
+    "MAKSI Reg": "MAKSI (Reguler)",
+    "MAKSI Eks": "MAKSI (Ekstensi)",
+    "PPAk": "Pendidikan Profesi Akuntansi",
+    "Doktor": "Doktor Ilmu Manajemen"
+  },
+  "rows": [
+    {
+      "kelas": "Reguler",
+      "lokasi": "Jakarta",
+      "prodi": "SA",
+      "target": {
+        "2024": 115,
+        "2025": 102,
+        "2026": 155
+      },
+      "batches": {
+        "2024": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 67
+          }
+        },
+        "2025": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 75
+          }
+        },
+        "2026": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 32
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 115,
+      "r2024": 67,
+      "p2024": null,
+      "t2025": 102,
+      "r2025": 75,
+      "p2025": null,
+      "t2026": 155,
+      "r2026": 32,
+      "p2026": null
+    },
+    {
+      "kelas": "Reguler",
+      "lokasi": "Jakarta",
+      "prodi": "SM",
+      "target": {
+        "2024": 126,
+        "2025": 107,
+        "2026": 161
+      },
+      "batches": {
+        "2024": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 74
+          }
+        },
+        "2025": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 50
+          }
+        },
+        "2026": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 22
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 126,
+      "r2024": 74,
+      "p2024": null,
+      "t2025": 107,
+      "r2025": 50,
+      "p2025": null,
+      "t2026": 161,
+      "r2026": 22,
+      "p2026": null
+    },
+    {
+      "kelas": "Reguler",
+      "lokasi": "Jakarta",
+      "prodi": "ES",
+      "target": {
+        "2024": 20,
+        "2025": 18,
+        "2026": 27
+      },
+      "batches": {
+        "2024": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 15
+          }
+        },
+        "2025": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 7
+          }
+        },
+        "2026": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 4
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 20,
+      "r2024": 15,
+      "p2024": null,
+      "t2025": 18,
+      "r2025": 7,
+      "p2025": null,
+      "t2026": 27,
+      "r2026": 4,
+      "p2026": null
+    },
+    {
+      "kelas": "Reguler",
+      "lokasi": "Jakarta",
+      "prodi": "TI",
+      "target": {
+        "2024": 36,
+        "2025": 24,
+        "2026": 36
+      },
+      "batches": {
+        "2024": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 20
+          }
+        },
+        "2025": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 17
+          }
+        },
+        "2026": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 3
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 36,
+      "r2024": 20,
+      "p2024": null,
+      "t2025": 24,
+      "r2025": 17,
+      "p2025": null,
+      "t2026": 36,
+      "r2026": 3,
+      "p2026": null
+    },
+    {
+      "kelas": "Reguler",
+      "lokasi": "Jakarta",
+      "prodi": "SI",
+      "target": {
+        "2024": 26,
+        "2025": 25,
+        "2026": 38
+      },
+      "batches": {
+        "2024": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 18
+          }
+        },
+        "2025": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 13
+          }
+        },
+        "2026": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 9
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 26,
+      "r2024": 18,
+      "p2024": null,
+      "t2025": 25,
+      "r2025": 13,
+      "p2025": null,
+      "t2026": 38,
+      "r2026": 9,
+      "p2026": null
+    },
+    {
+      "kelas": "Reguler",
+      "lokasi": "Jakarta",
+      "prodi": "BDA",
+      "target": {
+        "2024": 57,
+        "2025": 19,
+        "2026": 29
+      },
+      "batches": {
+        "2024": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 9
+          }
+        },
+        "2025": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 11
+          }
+        },
+        "2026": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 2
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 57,
+      "r2024": 9,
+      "p2024": null,
+      "t2025": 19,
+      "r2025": 11,
+      "p2025": null,
+      "t2026": 29,
+      "r2026": 2,
+      "p2026": null
+    },
+    {
+      "kelas": "Reguler",
+      "lokasi": "Jakarta",
+      "prodi": "DA",
+      "target": {
+        "2024": 16,
+        "2025": 15,
+        "2026": 23
+      },
+      "batches": {
+        "2024": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 11
+          }
+        },
+        "2025": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 10
+          }
+        },
+        "2026": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 6
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 16,
+      "r2024": 11,
+      "p2024": null,
+      "t2025": 15,
+      "r2025": 10,
+      "p2025": null,
+      "t2026": 23,
+      "r2026": 6,
+      "p2026": null
+    },
+    {
+      "kelas": "Reguler",
+      "lokasi": "Jakarta",
+      "prodi": "DKP",
+      "target": {
+        "2024": 16,
+        "2025": 14,
+        "2026": 21
+      },
+      "batches": {
+        "2024": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 9
+          }
+        },
+        "2025": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 28
+          }
+        },
+        "2026": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 6
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 16,
+      "r2024": 9,
+      "p2024": null,
+      "t2025": 14,
+      "r2025": 28,
+      "p2025": null,
+      "t2026": 21,
+      "r2026": 6,
+      "p2026": null
+    },
+    {
+      "kelas": "Reguler",
+      "lokasi": "Bekasi",
+      "prodi": "SA",
+      "target": {
+        "2024": 26,
+        "2025": 18,
+        "2026": 27
+      },
+      "batches": {
+        "2024": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 14
+          }
+        },
+        "2025": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 15
+          }
+        },
+        "2026": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 14
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 26,
+      "r2024": 14,
+      "p2024": null,
+      "t2025": 18,
+      "r2025": 15,
+      "p2025": null,
+      "t2026": 27,
+      "r2026": 14,
+      "p2026": null
+    },
+    {
+      "kelas": "Reguler",
+      "lokasi": "Bekasi",
+      "prodi": "SM",
+      "target": {
+        "2024": 26,
+        "2025": 13,
+        "2026": 20
+      },
+      "batches": {
+        "2024": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 15
+          }
+        },
+        "2025": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 9
+          }
+        },
+        "2026": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 4
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 26,
+      "r2024": 15,
+      "p2024": null,
+      "t2025": 13,
+      "r2025": 9,
+      "p2025": null,
+      "t2026": 20,
+      "r2026": 4,
+      "p2026": null
+    },
+    {
+      "kelas": "Reguler",
+      "lokasi": "Bekasi",
+      "prodi": "ES",
+      "target": {
+        "2024": 11,
+        "2025": 2,
+        "2026": 3
+      },
+      "batches": {
+        "2024": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2025": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2026": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 11,
+      "r2024": 0,
+      "p2024": null,
+      "t2025": 2,
+      "r2025": 0,
+      "p2025": null,
+      "t2026": 3,
+      "r2026": 0,
+      "p2026": null
+    },
+    {
+      "kelas": "Reguler",
+      "lokasi": "Bekasi",
+      "prodi": "TI",
+      "target": {
+        "2024": 16,
+        "2025": 9,
+        "2026": 14
+      },
+      "batches": {
+        "2024": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 8
+          }
+        },
+        "2025": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 3
+          }
+        },
+        "2026": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 7
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 16,
+      "r2024": 8,
+      "p2024": null,
+      "t2025": 9,
+      "r2025": 3,
+      "p2025": null,
+      "t2026": 14,
+      "r2026": 7,
+      "p2026": null
+    },
+    {
+      "kelas": "Reguler",
+      "lokasi": "Bekasi",
+      "prodi": "SI",
+      "target": {
+        "2024": 11,
+        "2025": 3,
+        "2026": 5
+      },
+      "batches": {
+        "2024": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2025": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 3
+          }
+        },
+        "2026": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 5
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 11,
+      "r2024": 0,
+      "p2024": null,
+      "t2025": 3,
+      "r2025": 3,
+      "p2025": null,
+      "t2026": 5,
+      "r2026": 5,
+      "p2026": null
+    },
+    {
+      "kelas": "Reguler",
+      "lokasi": "Bekasi",
+      "prodi": "BDA",
+      "target": {
+        "2024": 28,
+        "2025": 9,
+        "2026": 14
+      },
+      "batches": {
+        "2024": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2025": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 3
+          }
+        },
+        "2026": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 3
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 28,
+      "r2024": 0,
+      "p2024": null,
+      "t2025": 9,
+      "r2025": 3,
+      "p2025": null,
+      "t2026": 14,
+      "r2026": 3,
+      "p2026": null
+    },
+    {
+      "kelas": "Reguler",
+      "lokasi": "Bekasi",
+      "prodi": "DA",
+      "target": {
+        "2024": 16,
+        "2025": 6,
+        "2026": 9
+      },
+      "batches": {
+        "2024": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 3
+          }
+        },
+        "2025": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 6
+          }
+        },
+        "2026": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 2
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 16,
+      "r2024": 3,
+      "p2024": null,
+      "t2025": 6,
+      "r2025": 6,
+      "p2025": null,
+      "t2026": 9,
+      "r2026": 2,
+      "p2026": null
+    },
+    {
+      "kelas": "Reguler",
+      "lokasi": "Bekasi",
+      "prodi": "DKP",
+      "target": {
+        "2024": 16,
+        "2025": 3,
+        "2026": 5
+      },
+      "batches": {
+        "2024": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 2
+          }
+        },
+        "2025": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2026": {
+          "Tahunan": {
+            "pendaftar": null,
+            "nim": 2
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 16,
+      "r2024": 2,
+      "p2024": null,
+      "t2025": 3,
+      "r2025": 0,
+      "p2025": null,
+      "t2026": 5,
+      "r2026": 2,
+      "p2026": null
+    },
+    {
+      "kelas": "Ekstensi",
+      "lokasi": "Jakarta",
+      "prodi": "SA",
+      "target": {
+        "2024": 164,
+        "2025": 125,
+        "2026": 67
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 57
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 63
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 56
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 49
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 53
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 48
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 25
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 164,
+      "r2024": 176,
+      "p2024": null,
+      "t2025": 125,
+      "r2025": 150,
+      "p2025": null,
+      "t2026": 67,
+      "r2026": 25,
+      "p2026": null
+    },
+    {
+      "kelas": "Ekstensi",
+      "lokasi": "Jakarta",
+      "prodi": "SM",
+      "target": {
+        "2024": 167,
+        "2025": 137,
+        "2026": 73
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 55
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 60
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 55
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 43
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 47
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 43
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 21
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 167,
+      "r2024": 170,
+      "p2024": null,
+      "t2025": 137,
+      "r2025": 133,
+      "p2025": null,
+      "t2026": 73,
+      "r2026": 21,
+      "p2026": null
+    },
+    {
+      "kelas": "Ekstensi",
+      "lokasi": "Jakarta",
+      "prodi": "ES",
+      "target": {
+        "2024": 30,
+        "2025": 30,
+        "2026": 16
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 30,
+      "r2024": 0,
+      "p2024": null,
+      "t2025": 30,
+      "r2025": 0,
+      "p2025": null,
+      "t2026": 16,
+      "r2026": 0,
+      "p2026": null
+    },
+    {
+      "kelas": "Ekstensi",
+      "lokasi": "Jakarta",
+      "prodi": "SI",
+      "target": {
+        "2024": 35,
+        "2025": 35,
+        "2026": 19
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 4
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 4
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 3
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 1
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 1
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 2
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 1
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 35,
+      "r2024": 11,
+      "p2024": null,
+      "t2025": 35,
+      "r2025": 4,
+      "p2025": null,
+      "t2026": 19,
+      "r2026": 1,
+      "p2026": null
+    },
+    {
+      "kelas": "Ekstensi",
+      "lokasi": "Jakarta",
+      "prodi": "TI",
+      "target": {
+        "2024": 24,
+        "2025": 24,
+        "2026": 13
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 24,
+      "r2024": 0,
+      "p2024": null,
+      "t2025": 24,
+      "r2025": 0,
+      "p2025": null,
+      "t2026": 13,
+      "r2026": 0,
+      "p2026": null
+    },
+    {
+      "kelas": "Ekstensi",
+      "lokasi": "Bekasi",
+      "prodi": "SA",
+      "target": {
+        "2024": 61,
+        "2025": 61,
+        "2026": 32
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 12
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 14
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 12
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 14
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 15
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 13
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 9
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 61,
+      "r2024": 38,
+      "p2024": null,
+      "t2025": 61,
+      "r2025": 42,
+      "p2025": null,
+      "t2026": 32,
+      "r2026": 9,
+      "p2026": null
+    },
+    {
+      "kelas": "Ekstensi",
+      "lokasi": "Bekasi",
+      "prodi": "SM",
+      "target": {
+        "2024": 71,
+        "2025": 71,
+        "2026": 38
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 17
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 18
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 16
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 10
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 11
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 10
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 10
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 71,
+      "r2024": 51,
+      "p2024": null,
+      "t2025": 71,
+      "r2025": 31,
+      "p2025": null,
+      "t2026": 38,
+      "r2026": 10,
+      "p2026": null
+    },
+    {
+      "kelas": "Ekstensi",
+      "lokasi": "Bekasi",
+      "prodi": "SI",
+      "target": {
+        "2024": 33,
+        "2025": 33,
+        "2026": 17
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 4
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 4
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 4
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 1
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 1
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 1
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 33,
+      "r2024": 12,
+      "p2024": null,
+      "t2025": 33,
+      "r2025": 3,
+      "p2025": null,
+      "t2026": 17,
+      "r2026": 0,
+      "p2026": null
+    },
+    {
+      "kelas": "Pasca",
+      "lokasi": "Jakarta",
+      "prodi": "MM Reg",
+      "target": {
+        "2024": 129,
+        "2025": 137,
+        "2026": 155
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 32
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 108
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 53
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 29
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 97
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 49
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 25
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 4
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 129,
+      "r2024": 193,
+      "p2024": null,
+      "t2025": 137,
+      "r2025": 175,
+      "p2025": null,
+      "t2026": 155,
+      "r2026": 29,
+      "p2026": null
+    },
+    {
+      "kelas": "Pasca",
+      "lokasi": "Jakarta",
+      "prodi": "MM Eks",
+      "target": {
+        "2024": 50,
+        "2025": 59,
+        "2026": 67
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 50,
+      "r2024": 0,
+      "p2024": null,
+      "t2025": 59,
+      "r2025": 0,
+      "p2025": null,
+      "t2026": 67,
+      "r2026": 0,
+      "p2026": null
+    },
+    {
+      "kelas": "Pasca",
+      "lokasi": "Jakarta",
+      "prodi": "MAKSI Reg",
+      "target": {
+        "2024": 65,
+        "2025": 75,
+        "2026": 86
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 10
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 34
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 17
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 12
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 42
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 21
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 13
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 2
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 65,
+      "r2024": 61,
+      "p2024": null,
+      "t2025": 75,
+      "r2025": 75,
+      "p2025": null,
+      "t2026": 86,
+      "r2026": 15,
+      "p2026": null
+    },
+    {
+      "kelas": "Pasca",
+      "lokasi": "Jakarta",
+      "prodi": "MAKSI Eks",
+      "target": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 0,
+      "r2024": 0,
+      "p2024": null,
+      "t2025": 0,
+      "r2025": 0,
+      "p2025": null,
+      "t2026": 0,
+      "r2026": 0,
+      "p2026": null
+    },
+    {
+      "kelas": "Pasca",
+      "lokasi": "Jakarta",
+      "prodi": "PPAk",
+      "target": {
+        "2024": 44,
+        "2025": 44,
+        "2026": 51
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 11
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 36
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 17
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 11
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 36
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 17
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 20
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 3
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 44,
+      "r2024": 64,
+      "p2024": null,
+      "t2025": 44,
+      "r2025": 64,
+      "p2025": null,
+      "t2026": 51,
+      "r2026": 23,
+      "p2026": null
+    },
+    {
+      "kelas": "Pasca",
+      "lokasi": "Jakarta",
+      "prodi": "Doktor",
+      "target": {
+        "2024": 20,
+        "2025": 40,
+        "2026": 30
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 4
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 12
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 6
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 4
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 14
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 7
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 9
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 2
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 20,
+      "r2024": 22,
+      "p2024": null,
+      "t2025": 40,
+      "r2025": 25,
+      "p2025": null,
+      "t2026": 30,
+      "r2026": 11,
+      "p2026": null
+    },
+    {
+      "kelas": "Pasca",
+      "lokasi": "Bekasi",
+      "prodi": "MM Reg",
+      "target": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 0,
+      "r2024": 0,
+      "p2024": null,
+      "t2025": 0,
+      "r2025": 0,
+      "p2025": null,
+      "t2026": 0,
+      "r2026": 0,
+      "p2026": null
+    },
+    {
+      "kelas": "Pasca",
+      "lokasi": "Bekasi",
+      "prodi": "MM Eks",
+      "target": {
+        "2024": 57,
+        "2025": 64,
+        "2026": 72
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 3
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 11
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 5
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 2
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 8
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 4
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 3
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 1
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 57,
+      "r2024": 19,
+      "p2024": null,
+      "t2025": 64,
+      "r2025": 14,
+      "p2025": null,
+      "t2026": 72,
+      "r2026": 4,
+      "p2026": null
+    },
+    {
+      "kelas": "Pasca",
+      "lokasi": "Bekasi",
+      "prodi": "MAKSI Eks",
+      "target": {
+        "2024": 27,
+        "2025": 33,
+        "2026": 37
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 3
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 12
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 6
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 1
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 3
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 2
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 7
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 1
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 27,
+      "r2024": 21,
+      "p2024": null,
+      "t2025": 33,
+      "r2025": 6,
+      "p2025": null,
+      "t2026": 37,
+      "r2026": 8,
+      "p2026": null
+    },
+    {
+      "kelas": "Pasca",
+      "lokasi": "Bekasi",
+      "prodi": "PPAk",
+      "target": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "batches": {
+        "2024": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2025": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 0
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        },
+        "2026": {
+          "Maret": {
+            "pendaftar": null,
+            "nim": 8
+          },
+          "Juli": {
+            "pendaftar": null,
+            "nim": 1
+          },
+          "November": {
+            "pendaftar": null,
+            "nim": 0
+          }
+        }
+      },
+      "perlu_review": true,
+      "t2024": 0,
+      "r2024": 0,
+      "p2024": null,
+      "t2025": 0,
+      "r2025": 0,
+      "p2025": null,
+      "t2026": 0,
+      "r2026": 9,
+      "p2026": null
+    }
+  ],
+  "pacing": {
+    "Reguler": {
+      "p": 0.35,
+      "note": "Satu siklus/tahun, tutup ±September. Estimasi ~35% NIM akhir tahun sudah masuk per Mei (puncak Jul-Agu)."
+    },
+    "Ekstensi": {
+      "p": 0.325,
+      "note": "3 intake (Maret/Juli/November). Maret 2025 = 32.5% dari total NIM."
+    },
+    "Pasca": {
+      "p": 0.164,
+      "note": "3 intake (Maret/Juli/November). Maret 2025 = 16.4% dari total; Juli intake terbesar."
+    }
+  },
+  "projection_scenarios": {
+    "byKelas": {
+      "Reguler": {
+        "konservatif": 1,
+        "moderat": 1.55,
+        "optimistis": 1.85
+      },
+      "Ekstensi": {
+        "konservatif": 0.9,
+        "moderat": 1,
+        "optimistis": 1.05
+      },
+      "Pasca": {
+        "konservatif": 0.9,
+        "moderat": 1,
+        "optimistis": 1.05
+      }
+    },
+    "byProdi": {
+      "BDA": {
+        "konservatif": 1,
+        "moderat": 1.55,
+        "optimistis": 1.85
+      },
+      "DA": {
+        "konservatif": 1,
+        "moderat": 1.55,
+        "optimistis": 1.85
+      },
+      "DKP": {
+        "konservatif": 1,
+        "moderat": 1.55,
+        "optimistis": 1.85
+      }
+    }
+  }
+}
